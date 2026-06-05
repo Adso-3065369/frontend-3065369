@@ -98,7 +98,6 @@ const loadClientData = async (clientId, clientRepo, form) => {
 // 3. ORQUESTADOR PRINCIPAL
 // ============================================================================
 export const ClientEditHandler = async () => {
-    // 🚀 EXTRACCIÓN DE ID: Se asume enrutamiento hash de tipo '#/clientes/editar/123'
     const hashParts = window.location.hash.split('/');
     const clientId = hashParts[hashParts.length - 1];
 

@@ -11,7 +11,7 @@ import { validateForm, displayFormErrors } from '@/utils';
 // ============================================================================
 // 1. FASE DE INICIALIZACIÓN: Carga concurrente y renderizado del DOM
 // ============================================================================
-const initializeView = async (roleId, roleRepo, permissionRepo) => {
+const initializeView = async (roleId, roleRepo, permissionRepo, form) => {
     const permissionsContainer = document.getElementById('permissions-container');
     if (!permissionsContainer) return;
 
@@ -34,10 +34,10 @@ const initializeView = async (roleId, roleRepo, permissionRepo) => {
         const assignedPermissionIds = (role.permissions || []).map(p => {
             return typeof p === 'object' ? String(p.id) : String(p);
         });
-
-        document.getElementById('roleId').value = role.id;
-        document.getElementById('roleName').value = role.name;
-        document.getElementById('description').value = role.description;
+        // Población explícita mediante la colección elements del DOM
+        form.elements['roleName'].value = role.name;
+        form.elements['description'].value = role.description;
+        form.elements['roleId'].value = role.id;
 
         if (allPermissions.length === 0) {
             permissionsContainer.innerHTML = '<p class="text-text-secondary text-sm italic">No hay permisos disponibles en el sistema.</p>';
@@ -108,7 +108,7 @@ export const RoleEditHandler = async (params) => {
     const form = document.getElementById('form-edit-role');
     if (!form) return;
 
-    await initializeView(roleId, roleRepo, permissionRepo);
+    await initializeView(roleId, roleRepo, permissionRepo, form);
 
     form.addEventListener('submit', async (e) => {
         e.preventDefault();
