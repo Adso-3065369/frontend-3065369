@@ -31,13 +31,19 @@ Para avanzar en el proyecto, cada aprendiz debe cumplir este proceso secuencial:
 | Rol | Nombre | Usuario GitHub | Firma |
 | :--- | :--- | :--- | :--- |
 | **Líder de Proyecto** | __________________ | `@` | [ ] |
+| **Desarrollador** | Jhonatan David Leherici Carrascal | `@Oatan150520` | [Jhonatan Leherici] |
+| **Desarrollador** | __________________ | `@` | [ ] |
+
+  **Líder de Proyecto** | Sergio Andrés Álvarez | `@andre1985dominiocom` | [ Sergio Andrés ] |
 | **Desarrollador** | Adriana Lucia Lizcano Almeida| `@` | [Lucia-1234 ] |
 | **Desarrollador** | Wendy Vanesa Vera Arrieta| `@Wendy-vera` | [Wendy] |
+| **Desarrollador** | Jose Gabriel Roa Diaz | `@jogard24` | [joseRoa ] |
 | **Desarrollador** | Sol Angy Valentina Serrano Quintero | `@valentinaserrano20` | savsq |
 | **Desarrollador** | Juan David Caceres Hernandez | `@javid495` | [ JuanDavid ] |
 | **Desarrollador** | Alvaro Andres Salazar Herrera | `@AlvaroSaGit` | [Alvaro Andres Salazar Herrera] |
 | **Desarrollador** | Dylan Vesga | `@sfbtm` | [Dylan] |
 | **Desarrollador** | Leidy Esmeralda Duarte Prada | `@Leidyesme` | [ Leidy ] |
-| **Desarrollador** | Michael benavides | `@michaelfb803@gmail.com` | [ michaelbenavides3 ] |
+|**Desarrollador** | Juan Manuel Rodriguez Carreño | `@Juan788800` | [Juan Manuel Rodriguez Carreño ] |
+|**Desarrollador** | Michael Benavides | `@michaelfb803@gmail.com` | [michaelbenavides3 ] |
 
 > *"El éxito de este PROYECTO DE DESARROLLO no depende de quién escriba más código, sino de quién demuestre mejor comprensión y rigor técnico en su análisis."*
