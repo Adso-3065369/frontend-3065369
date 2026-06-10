@@ -43,8 +43,6 @@ Para avanzar en el proyecto, cada aprendiz debe cumplir este proceso secuencial:
 | **Desarrollador** | Dylan Vesga | `@sfbtm` | [Dylan] |
 | **Desarrollador** |Yimmer Samith  | `@Samith146` | [Samithh.ST ] |
 | **Desarrollador** | Leidy Esmeralda Duarte Prada | `@Leidyesme` | [ Leidy ] |
-
-
 | **Desarrollador** | Juan Manuel Rodriguez Carreño | `@Juan788800` | [Juan Manuel Rodriguez Carreño ] |
 | **Desarrollador** | Santiago Carrillo Rivera  | `@santi1007312` | [ Santiago Carrillo Rivera ] |
 |**Desarrollador** | Michael Benavides | `@michaelfb803@gmail.com` | [michaelbenavides3 ] |
