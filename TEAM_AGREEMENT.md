@@ -30,7 +30,7 @@ Para avanzar en el proyecto, cada aprendiz debe cumplir este proceso secuencial:
 
 | Rol | Nombre | Usuario GitHub | Firma |
 | :--- | :--- | :--- | :--- |
-| **Líder de Proyecto** | __________________ | `@` | [ ] |
+| **Líder de Proyecto** | Eileen Julieth Mendoza Landinez | `@EileenMendoza18` | [ Eileen Mendoza ] |
   **Líder de Proyecto** | Sergio Andrés Álvarez | `@andre1985dominiocom` | [ Sergio Andrés ] |
 | **Desarrollador** | Jhonatan David Leherici Carrascal | `@Oatan150520` | [Jhonatan Leherici] |
 | **Desarrollador** | Juan David | `Gratos356` | [juan david ramirez saavedra] |
