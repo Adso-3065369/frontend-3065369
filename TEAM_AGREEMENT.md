@@ -31,6 +31,7 @@ Para avanzar en el proyecto, cada aprendiz debe cumplir este proceso secuencial:
 | Rol | Nombre | Usuario GitHub | Firma |
 | :--- | :--- | :--- | :--- |
 | **Líder de Proyecto** | __________________ | `@` | [ ] |
+| **Líder de Proyecto** | Sergio Álvarez | `@andre1985dominiocom` | [ Sergio ] |
 | **Desarrollador** | __________________ | `@` | [ ] |
 | **Desarrollador** | __________________ | `@` | [ ] |
 
