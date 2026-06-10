@@ -34,5 +34,8 @@ Para avanzar en el proyecto, cada aprendiz debe cumplir este proceso secuencial:
 | **Líder de Proyecto** | Sergio Álvarez | `@andre1985dominiocom` | [ Sergio ] |
 | **Desarrollador** | __________________ | `@` | [ ] |
 | **Desarrollador** | __________________ | `@` | [ ] |
+| **Desarrollador** | __________________ | `@` | [ ] |
+| **Desarrollador** | Alvaro Andres Salazar Herrera | `@AlvaroSaGit` | [Alvaro Andres Salazar Herrera] |
+| **Desarrollador** | Dylan Vesga | `@sfbtm` | [Dylan] |
 
 > *"El éxito de este PROYECTO DE DESARROLLO no depende de quién escriba más código, sino de quién demuestre mejor comprensión y rigor técnico en su análisis."*
