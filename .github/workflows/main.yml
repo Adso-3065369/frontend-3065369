@@ -12,7 +12,7 @@ jobs:
         id: check_user
         run: |
           # Lista exacta de los usuarios de GitHub de los Tech Leads
-          ALLOWED_USERS=("JohnVanagandr")
+          ALLOWED_USERS=("JohnVanagandr" "EileenMendoza18" "andre1985dominiocom")
           
           ACTOR="${{ github.actor }}"
           
